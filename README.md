@@ -1,2 +1,2 @@
 # Aplicacao_.NET_MVC
-Aplicação utilizada ao longo do Livro ASP.NET MVC 5
+Aplicação desenvolvida ao longo do Livro ASP.NET MVC 5
